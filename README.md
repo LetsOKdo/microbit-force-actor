@@ -1,5 +1,5 @@
 
-> Open this page at [https://milnepe.github.io/microbit-force-actor/](https://milnepe.github.io/microbit-force-actor/)
+> Open this page at [https://LetsOKdo.github.io/microbit-force-actor/](https://LetsOKdo.github.io/microbit-force-actor/)
 
 ## Use as Extension
 
@@ -8,22 +8,22 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/milnepe/microbit-force-actor** and import
+* search for **https://github.com/LetsOKdo/microbit-force-actor** and import
 
-## Edit this project ![Build status badge](https://github.com/milnepe/microbit-force-actor/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/LetsOKdo/microbit-force-actor/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/milnepe/microbit-force-actor** and click import
+* paste **https://github.com/LetsOKdo/microbit-force-actor** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/milnepe/microbit-force-actor/raw/master/.github/makecode/blocks-small.png)
+![A rendered view of the blocks](https://github.com/LetsOKdo/microbit-force-actor/raw/master/.github/makecode/blocks-small.png)
 
 #### Metadata (used for search, rendering)
 
